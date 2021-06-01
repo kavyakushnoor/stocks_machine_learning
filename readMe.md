@@ -12,7 +12,7 @@
     * portfolio.csv
 
 The major software and libraries used in this project are:
-    * python
-    * scikit-learn
-    * pandas
-    * matplotlib
+* python
+* scikit-learn
+* pandas
+* matplotlib
