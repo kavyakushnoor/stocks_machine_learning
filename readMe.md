@@ -2,11 +2,11 @@
 
 
 This repository contains the following files prepared in order to meet the nanodegree requirements:
- 1. capstone proposal document as proposal.pdf
- 2. All proposal development Python code in .ipynb
- 3. A project report as project.pdf
- 4. All project development Python code in .ipynb
- 5. supporting material such as datasets
+ 1. proposal report: proposal.pdf
+ 2. proposal development Python code: benchmark_model.ipynb
+ 3. final report: project.pdf
+ 4. final development Python code: project.ipynb
+ 5. supporting material (datasets):
     * XY_var.csv
     * S&P500.csv
     * portfolio.csv
